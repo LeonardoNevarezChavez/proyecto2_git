@@ -7,3 +7,13 @@ p {
     background-color: azure;
     padding-top: 20px;
 }
+
+table {
+    border: solid 3px rgb(16, 31, 96);
+    width: 70%;
+}
+
+td {
+    background-color: blanchedalmond;
+    padding: 30px;
+}
