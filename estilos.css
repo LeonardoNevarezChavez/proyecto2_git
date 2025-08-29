@@ -17,3 +17,9 @@ td {
     background-color: blanchedalmond;
     padding: 30px;
 }
+
+img {
+    border: solid 4px brown;
+    border-radius: 20px;
+    width: 200px;
+}
